@@ -1,8 +1,6 @@
 zwrotka1.txt
 
-Chorus 1 In the jungle, welcome to the jungle
-Watch it bring you to your shananananana knees, knees
-Ohh, I wanna watch you bleed!
+Refren1.txt
 
 zwrotka2.txt
 
